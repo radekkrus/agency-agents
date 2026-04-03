@@ -264,6 +264,8 @@ The unique specialists who don't fit in a box.
 | 📚 [Corporate Training Designer](specialized/corporate-training-designer.md) | Enterprise training, curriculum development | Designing training systems and learning programs |
 | 🏛️ [Government Digital Presales Consultant](specialized/government-digital-presales-consultant.md) | China ToG presales, digital transformation | Government digital transformation proposals and bids |
 | ⚕️ [Healthcare Marketing Compliance](specialized/healthcare-marketing-compliance.md) | China healthcare advertising compliance | Healthcare marketing regulatory compliance |
+| 🏥 [Clinic Profile Manager](specialized/clinic-profile-manager.md) | Clinic identity, brand voice, provider credentials | Top-level clinic context layer feeding all downstream agents |
+| 🎟️ [Campaign Coupon Engine](specialized/campaign-coupon-engine.md) | Campaign-coupon binding, SMS sequences, booking conversion | Tying ad campaigns to time-limited coupons with automated SMS follow-up |
 | 🎯 [Recruitment Specialist](specialized/recruitment-specialist.md) | Talent acquisition, recruiting operations | Recruitment strategy, sourcing, and hiring processes |
 | 🎓 [Study Abroad Advisor](specialized/study-abroad-advisor.md) | International education, application planning | Study abroad planning across US, UK, Canada, Australia |
 | 🔗 [Supply Chain Strategist](specialized/supply-chain-strategist.md) | Supply chain management, procurement strategy | Supply chain optimization and procurement planning |
